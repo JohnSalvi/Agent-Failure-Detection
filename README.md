@@ -14,6 +14,7 @@ This work can be used to:
 Prompt agents to recover upon failure (e.g., stop a bad trajectory early).
 Improve agent design by understanding failure patterns.
 
+# <img src="assets/attention-rainbow.svg" alt="Attention: I would not take this approach in the future">
 # <span style="color:red">Attension</span>: I would not take this approach in the future...
 ![Alt Text: This is a meme.](https://preview.redd.it/rprze5xd9fk31.png?width=1080&crop=smart&auto=webp&s=e9763816bec9ef566e9b2ab9afdf9daf753c3811)
 
