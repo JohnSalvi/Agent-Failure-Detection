@@ -14,6 +14,6 @@ This work can be used to:
 Prompt agents to recover upon failure (e.g., stop a bad trajectory early).
 Improve agent design by understanding failure patterns.
 
-# <span style="color:red">A</span><span style="color:orange">t</span><span style="color:yellow">t</span><span style="color:green">e</span><span style="color:blue">n</span><span style="color:indigo">s</span><span style="color:violet">i</span><span style="color:red">o</span><span style="color:orange">n</span>: I would not take this approach in the future
+# <span style="color:red">Attension</span>: I would not take this approach in the future...
 ![Alt Text: This is a meme.](https://preview.redd.it/rprze5xd9fk31.png?width=1080&crop=smart&auto=webp&s=e9763816bec9ef566e9b2ab9afdf9daf753c3811)
 
